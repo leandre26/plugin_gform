@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC -O3 -DNDEBUG -shared -Wl,-soname,source_gsheet.plugin -o source_gsheet.plugin CMakeFiles/source_gsheet.dir/src/source_gsheet.cpp.o 

@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC -O3 -DNDEBUG -shared -Wl,-soname,to_console.plugin -o to_console.plugin CMakeFiles/to_console.dir/to_console.cpp.o   -L/home/mads/Devel/questionnaire_gform/Plugin/build/_deps/restclient-cpp-build  -Wl,-rpath,/home/mads/Devel/questionnaire_gform/Plugin/build/_deps/restclient-cpp-build 

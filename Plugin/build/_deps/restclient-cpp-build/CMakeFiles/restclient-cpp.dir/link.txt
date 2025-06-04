@@ -1,0 +1,2 @@
+/usr/bin/ar qc librestclient-cpp.a "CMakeFiles/restclient-cpp.dir/source/restclient.cc.o" "CMakeFiles/restclient-cpp.dir/source/connection.cc.o" "CMakeFiles/restclient-cpp.dir/source/helpers.cc.o"
+/usr/bin/ranlib librestclient-cpp.a

@@ -1,0 +1,1 @@
+/usr/bin/c++ -O3 -DNDEBUG CMakeFiles/serial_reader_main.dir/serial_reader.cpp.o CMakeFiles/serial_reader_main.dir/__/serialport.cpp.o -o serial_reader   -L/home/mads/Devel/questionnaire_gform/Plugin/build/_deps/restclient-cpp-build  -Wl,-rpath,/home/mads/Devel/questionnaire_gform/Plugin/build/_deps/restclient-cpp-build 
