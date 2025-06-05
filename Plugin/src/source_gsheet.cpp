@@ -11,7 +11,6 @@
 #include <string>
 #include <array>
 
-// Classe dérivée du template Source<std::string>
 class GSheetSource : public Source<std::string> {
 public:
     GSheetSource() = default;
