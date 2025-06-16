@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/mads/Devel/questionnaire_gform/Plugin/build/_deps/restclient-cpp-subbuild/CMakeFiles/restclient-cpp-populate"
+		},
+		{
+			"file" : "/home/mads/Devel/questionnaire_gform/Plugin/build/_deps/restclient-cpp-subbuild/CMakeFiles/restclient-cpp-populate.rule"
+		},
+		{
+			"file" : "/home/mads/Devel/questionnaire_gform/Plugin/build/_deps/restclient-cpp-subbuild/CMakeFiles/restclient-cpp-populate-complete.rule"
+		},
+		{
+			"file" : "/home/mads/Devel/questionnaire_gform/Plugin/build/_deps/restclient-cpp-subbuild/restclient-cpp-populate-prefix/src/restclient-cpp-populate-stamp/restclient-cpp-populate-build.rule"
+		},
+		{
+			"file" : "/home/mads/Devel/questionnaire_gform/Plugin/build/_deps/restclient-cpp-subbuild/restclient-cpp-populate-prefix/src/restclient-cpp-populate-stamp/restclient-cpp-populate-configure.rule"
+		},
+		{
+			"file" : "/home/mads/Devel/questionnaire_gform/Plugin/build/_deps/restclient-cpp-subbuild/restclient-cpp-populate-prefix/src/restclient-cpp-populate-stamp/restclient-cpp-populate-download.rule"
+		},
+		{
+			"file" : "/home/mads/Devel/questionnaire_gform/Plugin/build/_deps/restclient-cpp-subbuild/restclient-cpp-populate-prefix/src/restclient-cpp-populate-stamp/restclient-cpp-populate-install.rule"
+		},
+		{
+			"file" : "/home/mads/Devel/questionnaire_gform/Plugin/build/_deps/restclient-cpp-subbuild/restclient-cpp-populate-prefix/src/restclient-cpp-populate-stamp/restclient-cpp-populate-mkdir.rule"
+		},
+		{
+			"file" : "/home/mads/Devel/questionnaire_gform/Plugin/build/_deps/restclient-cpp-subbuild/restclient-cpp-populate-prefix/src/restclient-cpp-populate-stamp/restclient-cpp-populate-patch.rule"
+		},
+		{
+			"file" : "/home/mads/Devel/questionnaire_gform/Plugin/build/_deps/restclient-cpp-subbuild/restclient-cpp-populate-prefix/src/restclient-cpp-populate-stamp/restclient-cpp-populate-test.rule"
+		},
+		{
+			"file" : "/home/mads/Devel/questionnaire_gform/Plugin/build/_deps/restclient-cpp-subbuild/restclient-cpp-populate-prefix/src/restclient-cpp-populate-stamp/restclient-cpp-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"restclient-cpp-populate"
+		],
+		"name" : "restclient-cpp-populate"
+	}
+}

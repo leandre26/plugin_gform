@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC -O3 -DNDEBUG -shared -Wl,-soname,spawner.plugin -o spawner.plugin CMakeFiles/spawner.dir/spawner.cpp.o   -L/home/mads/Devel/questionnaire_gform/Plugin/build/_deps/restclient-cpp-build  -Wl,-rpath,/home/mads/Devel/questionnaire_gform/Plugin/build/_deps/restclient-cpp-build -luuid 

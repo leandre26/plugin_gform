@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/mads/Devel/questionnaire_gform/Plugin/build/_deps/stats-subbuild/CMakeFiles/stats-populate"
+		},
+		{
+			"file" : "/home/mads/Devel/questionnaire_gform/Plugin/build/_deps/stats-subbuild/CMakeFiles/stats-populate.rule"
+		},
+		{
+			"file" : "/home/mads/Devel/questionnaire_gform/Plugin/build/_deps/stats-subbuild/CMakeFiles/stats-populate-complete.rule"
+		},
+		{
+			"file" : "/home/mads/Devel/questionnaire_gform/Plugin/build/_deps/stats-subbuild/stats-populate-prefix/src/stats-populate-stamp/stats-populate-build.rule"
+		},
+		{
+			"file" : "/home/mads/Devel/questionnaire_gform/Plugin/build/_deps/stats-subbuild/stats-populate-prefix/src/stats-populate-stamp/stats-populate-configure.rule"
+		},
+		{
+			"file" : "/home/mads/Devel/questionnaire_gform/Plugin/build/_deps/stats-subbuild/stats-populate-prefix/src/stats-populate-stamp/stats-populate-download.rule"
+		},
+		{
+			"file" : "/home/mads/Devel/questionnaire_gform/Plugin/build/_deps/stats-subbuild/stats-populate-prefix/src/stats-populate-stamp/stats-populate-install.rule"
+		},
+		{
+			"file" : "/home/mads/Devel/questionnaire_gform/Plugin/build/_deps/stats-subbuild/stats-populate-prefix/src/stats-populate-stamp/stats-populate-mkdir.rule"
+		},
+		{
+			"file" : "/home/mads/Devel/questionnaire_gform/Plugin/build/_deps/stats-subbuild/stats-populate-prefix/src/stats-populate-stamp/stats-populate-patch.rule"
+		},
+		{
+			"file" : "/home/mads/Devel/questionnaire_gform/Plugin/build/_deps/stats-subbuild/stats-populate-prefix/src/stats-populate-stamp/stats-populate-test.rule"
+		},
+		{
+			"file" : "/home/mads/Devel/questionnaire_gform/Plugin/build/_deps/stats-subbuild/stats-populate-prefix/src/stats-populate-stamp/stats-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"stats-populate"
+		],
+		"name" : "stats-populate"
+	}
+}

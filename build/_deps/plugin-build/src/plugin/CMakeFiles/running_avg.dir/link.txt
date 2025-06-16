@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC -O3 -DNDEBUG -shared -Wl,-soname,running_avg.plugin -o running_avg.plugin CMakeFiles/running_avg.dir/running_avg.cpp.o   -L/home/mads/Devel/questionnaire_gform/Plugin/build/_deps/restclient-cpp-build  -Wl,-rpath,/home/mads/Devel/questionnaire_gform/Plugin/build/_deps/restclient-cpp-build 
