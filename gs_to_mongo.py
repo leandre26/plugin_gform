@@ -2,9 +2,19 @@ import gspread
 import pandas as pd
 from pymongo import MongoClient
 from pymongo.errors import DuplicateKeyError
+from pathlib import Path
+import os
 
 # 🔹 Connexion à Google Sheets via la clé de service
-gc = gspread.service_account(filename="/home/mads/Devel/questionnaire_gform/questionnaire-gform-b04f6f13cdb7.json")
+# Path to the Google service account credentials. This can be overridden with
+# the ``GFORM_CREDENTIALS`` environment variable to avoid hard coded absolute
+# paths.
+credentials_path = os.environ.get(
+    "GFORM_CREDENTIALS",
+    Path(__file__).with_name("questionnaire-gform-b04f6f13cdb7.json"),
+)
+
+gc = gspread.service_account(filename=str(credentials_path))
 
 # 🔹 Ouverture du Google Sheet
 sh = gc.open("Questionnaire CN - Réponses pour récupération de données")
